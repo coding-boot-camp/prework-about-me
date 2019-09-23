@@ -1,0 +1,65 @@
+/* * is for all the html elements*/
+*{
+  padding: 5px;
+	margin: 10px;
+	border: 10px;
+}
+
+table {
+  font-family: "Comic Sans MS", cursive, sans-serif;  
+  border-collapse: collapse;
+  width: 100%;
+  text-align: center;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.bgColor {
+  background-color: #FFFCCC;
+}
+
+.bgColor h1 {
+  color:#383838;
+  font-family: fantasy;
+}
+
+.SuedeMembers {
+  background-color: #E0E0E0;
+   font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.introBody{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+
+.introHeading{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 20px;
+  text-align: center;
+  color: #787878;
+}
+
+h2{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h3{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+
+
+
+
+
+
+
