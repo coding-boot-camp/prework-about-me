@@ -1,0 +1,22 @@
+P{
+
+}
+#first {color: red;}
+#second {color: blue}
+#third {color: green}
+#large {font-size: large}
+#bold {font-weight: bold;}
+#tiny {font-size: small}
+#center {text-align: center;}
+#family{font-family:fantasy}
+#multiple 
+{color:orange;
+font-size: larger;
+font-weight: bold;
+}
+.styledFont{
+    color: green;
+}
+img {
+    border: 15px solid yellow;
+  }
