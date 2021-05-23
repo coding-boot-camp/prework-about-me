@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(235, 229, 229);
+}
+
+#box {
+    height: 150px;
+    width: 150px;
+    background-color: orange;
+    margin: 25px
+}

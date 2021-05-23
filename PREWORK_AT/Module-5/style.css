@@ -1,0 +1,64 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+h2 {
+    text-align: left;
+    color: black;
+}
+
+#c_red {
+    color: red;
+}
+
+#c_blue {
+    color: blue;
+}
+
+#c_green {
+    color: green;
+}
+
+#c_big {
+    font-size: x-large;
+}
+
+#c_tiny {
+    font-size: small;
+}
+
+#cen_allign {
+    text-align: center;
+}
+
+#bold {
+    font-weight: bold;
+}
+
+#diff_font {
+    font-family: fantasy;
+}
+
+#mul_sty {
+    font-size: x-large;
+    font-weight: bold;
+    color: orange;
+}
+
+.styledFont {
+    font-size: 12px;
+    font-family: cursive;
+    color: green;
+    font-style: italic;
+}
+
+#styledImage {
+    border: 5px solid orange;
+    width: auto;
+    height: auto;
+}
